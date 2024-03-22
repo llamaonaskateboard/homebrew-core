@@ -1,8 +1,8 @@
 class Libobjc2 < Formula
   desc "Objective-C runtime library intended for use with Clang"
   homepage "https://github.com/gnustep/libobjc2"
-  url "https://github.com/gnustep/libobjc2/archive/refs/tags/v2.1.tar.gz"
-  sha256 "78fc3711db14bf863040ae98f7bdca08f41623ebeaf7efaea7dd49a38b5f054c"
+  url "https://github.com/gnustep/libobjc2/archive/refs/tags/v2.2.1.tar.gz"
+  sha256 "768ea8c5bd0999a29b5d15781125494f986456c1dc5c51d370fb31852cd31ea1"
   license "MIT"
 
   bottle do
